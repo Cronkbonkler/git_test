@@ -1,1 +1,2 @@
 "I am adding text because I am told to."
+"I am adding this to test git commit messages
